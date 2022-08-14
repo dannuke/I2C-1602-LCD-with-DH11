@@ -8,7 +8,7 @@
  * LCD GND to Arduino GND
  * LCD VCC to Arduino 5v
  * LCD VCC to Arduino A4
- * LCD SCL to Arduino A%
+ * LCD SCL to Arduino A5
  * 
  */
 
